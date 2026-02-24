@@ -114,7 +114,7 @@ export default function About() {
                 className="flex gap-3 mt-6"
               >
                 <a
-                  href="https://drive.google.com/file/d/1PnNDh2n7JaVLlzmAaEOitLCT16Nhj6zg/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1gtD7T8DTkCkvInb-dqP1wc3IwejYoQi3/view?usp=sharing"
                   className="font-mono text-xs font-bold px-4 py-2 bg-black text-[#e9e7e1] border-[3px] border-black shadow-brutal-sm hover-lift"
                 >
                   Download CV
